@@ -361,7 +361,7 @@ footer {
 
 /***MOBILE VIEW***/
 
-@media screen and (max-width: 800px) {
+@media screen and (min-width:600px) and (max-width:1200px) {
   #logo {
     display: none;
   }
